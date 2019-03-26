@@ -2,12 +2,21 @@
 
 
 ## Composants
+| Arduino | SeeedStudio |
+| :-------------: | :-------------: |
+| ![](/icone/Arduino.png) | ![](/icone/Seeed_Studio.png) |
 
-### Arduino_Uno
-![Arduino_Uno]()
+### Arduino
+| Arduino Mega  | Arduino Uno|
+| :-------------: | :-------------: |
+| ![](/composants/Arduino%20Mega.jpg) | ![](/composants/Arduino%20Uno.jpg)
+
+### Shield
+| Shield grove SD Card |
+| :-------------: |
+| ![](/composants/Grove/Shield_Grove_SD_Card.jpg)  |
 
 ## Branchement
-![Fritzing]()
 
 ### Shield
 * Grove-Shield-Carte-SD
