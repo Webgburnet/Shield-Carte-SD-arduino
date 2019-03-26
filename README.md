@@ -14,7 +14,7 @@
 ### Shield
 | Shield grove SD Card |
 | :-------------: |
-| ![](/composants/Grove/Shield_Grove_SD_Card.jpg)  |
+| ![](/composants/SeeedStudio/Shield_Grove_SD_Card.jpg)  |
 
 ## Branchement
 
