@@ -1,5 +1,10 @@
 # Shield-Carte-SD-arduino
 
+## Logiciels
+| Arduino | Fritzing  |
+| :-----: | :------: |
+| Arduino | 4D Systems|
+| ![](/icone/Arduino.png) | ![](/icone/Fritzing.png)| 
 
 ## Composants
 | Arduino | SeeedStudio |
@@ -17,6 +22,12 @@
 | ![](/composants/SeeedStudio/Shield_Grove_SD_Card.jpg)  |
 
 ## Branchement
+| Fritzing |
+| :-------------: |
+| ![](/icone/Fritzing.png) |
+
+![](/fritzing/Untitled_Sketch.png)
+
 
 ### Shield
 * Grove-Shield-Carte-SD
