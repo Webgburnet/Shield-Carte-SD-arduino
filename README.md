@@ -3,7 +3,6 @@
 ## Logiciels
 | Arduino | Fritzing  |
 | :-----: | :------: |
-| Arduino | 4D Systems|
 | ![](/icone/Arduino.png) | ![](/icone/Fritzing.png)| 
 
 ## Composants
